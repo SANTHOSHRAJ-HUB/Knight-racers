@@ -1,0 +1,9 @@
+{
+  "appId": "com.santhoshrajmaroju.knightracers",
+  "appName": "Knight Racers",
+  "webDir": "www",
+  "backgroundColor": "#0b0d10",
+  "server": {
+    "androidScheme": "https"
+  }
+}
